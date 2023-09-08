@@ -14,7 +14,7 @@
 </div><br/>
 
 Apaixonado por tecnologia, e com uma vontade de aprender que não me deixa ficar acomodado.
-Tenho muita facilidade em aprender novas tenologias.
+Tenho muita facilidade em aprender novas tecnologias.
 
 ## E- mails para contato:
 ##### cofinonline@gmail.com , pbarbosa4410@gmail.com
