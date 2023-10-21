@@ -3,6 +3,9 @@
 [![Linkdln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-barbosa4410/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pbarbosa4410/)
 
+<a href="https://www.linkedin.com/in/paulo-barbosa4410/" target="_blank">Meu perfil</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paulor4410&show_icons=true&theme=dark)
 
 ## Tecnologias que uso no meu dia
